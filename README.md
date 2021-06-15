@@ -1,4 +1,3 @@
-# Practica_Input_MitziDayannAG
 <html>
 	<head>
 		<title>inputs</title>
